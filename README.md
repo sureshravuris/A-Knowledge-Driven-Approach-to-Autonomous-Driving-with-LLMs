@@ -19,3 +19,8 @@ In this assignment, you are required to conduct a thorough review and analysis o
 
 Remember, the goal is to transform complex academic content into an engaging, accessible narrative that captures the essence of your chosen topic in Large Language Models or Foundation Models. Your individual interpretation and presentation are key to the success of this assignment.
 
+
+
+## 📰Medium Article: [Access Here](https://medium.com/@sureshravuri/a-knowledge-driven-approach-to-autonomous-driving-with-large-language-models-transforming-how-a6a221db2371)🔗
+## 🖥️Slide Deck: [Access Here](https://www.slideshare.net/slideshow/a-knowledgedriven-approach-to-autonomous-driving-with-llms/267542636)🔗
+## ▶️Youtube Video: [Access Here]()
