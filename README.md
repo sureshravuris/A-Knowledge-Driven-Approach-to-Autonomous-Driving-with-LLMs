@@ -23,4 +23,4 @@ Remember, the goal is to transform complex academic content into an engaging, ac
 
 ## 📰Medium Article: [Access Here](https://medium.com/@sureshravuri/a-knowledge-driven-approach-to-autonomous-driving-with-large-language-models-transforming-how-a6a221db2371)🔗
 ## 🖥️Slide Deck: [Access Here](https://www.slideshare.net/slideshow/a-knowledgedriven-approach-to-autonomous-driving-with-llms/267542636)🔗
-## ▶️Youtube Video: [Access Here]()
+## ▶️Youtube Video: [Access Here](https://youtu.be/-Iauf2egLdk)🔗
